@@ -83,6 +83,7 @@ export default function ModalCard() {
               <option value="Bagli">Bagli</option>
               <option value="Gwaliour">Gwaliour</option>
               <option value="Dewas">Dewas</option>
+              <option value="Sonkatch">Sonkatch</option>
               {/* Add your cities here */}
             </select>
             <input

@@ -11,7 +11,7 @@ const ModalHome = () => {
         // Open modal after 4 seconds
         const initialTimeout = setTimeout(() => {
             setModalIsOpen(true);
-        }, 100000);
+        }, 4000);
 
         return () => clearTimeout(initialTimeout);
     }, []);
@@ -22,7 +22,7 @@ const ModalHome = () => {
 
         const reopenTimeout = setTimeout(() => {
             setModalIsOpen(true);
-        }, 100000);
+        }, 60000);
 
         return () => clearTimeout(reopenTimeout);
     };

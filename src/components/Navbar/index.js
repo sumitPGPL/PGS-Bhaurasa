@@ -105,7 +105,7 @@ const Navbar = () => {
                 <Image className='w-auto' alt="image" width={170} height={90} src="/Screenshot 2024-01-15 183512.png"  />
               </div>
               <div className="md:w-1/2 flex flex-col justify-center text-center">
-                <h5 className="text-[[#0e547e]] text-2xl md:text-3xl font-extrabold">PRATIBHA GLOBAL SCHOOL Bhaurasa</h5>
+                <h5 className="text-[[#0e547e]] text-2xl md:text-3xl font-extrabold">PRATIBHA GLOBAL SCHOOL BHAURASA</h5>
                 <h5 className="text-sm md:text-base">MP Board&nbsp; AFFILIATION NO.- 1031066 , MP Board SCHOOL CODE. - 51033</h5>
               </div>
               <div className=" flex flex-col justify-center">
