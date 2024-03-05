@@ -242,8 +242,8 @@ const AdmissionForm = () => {
                                 btnType="primary" // Adjust button type as needed
                                 size="large" // Adjust button size as needed
 
-                                className="text-white px-4 py-2 rounded-lg"
-                                style={{background:'[#43b4ed]'}}
+                                className="text-white px-4 py-2 rounded-lg bg-[#43b4ed]"
+                                
                             >   
                                 Submit
                             </Button>
@@ -261,7 +261,7 @@ const AdmissionForm = () => {
                             <p className="text-lg my-5 font-normal text-gray-500 lg:text-xl dark:text-gray-400">
                                 Here, learning is a joy ride!.
                             </p>
-                            <button type="button" className="text-white  hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-200 shadow-lg shadow-blue-100 dark:shadow-lg dark:shadow-blue-100 font-medium rounded-lg text-sm px-5 py-2.5 text-center"  style={{background:'[#1a9add]'}}>
+                            <button type="button" className="text-white  hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-200 shadow-lg shadow-blue-100 dark:shadow-lg dark:shadow-blue-100 font-medium rounded-lg text-sm px-5 py-2.5 text-center bg-[#1a9add]">
                                 About Us
                             </button>
                         </div>

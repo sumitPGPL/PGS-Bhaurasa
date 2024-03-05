@@ -110,8 +110,9 @@ export default function ModalCard() {
               btnType="primary" // Adjust button type as needed
               size="large" // Adjust button size as needed
 
-              className="text-white px-4 py-2 rounded-lg"
-              style={{ background: '[#43b4ed]' }}
+              className="text-white px-4 py-2 rounded-lg bg-[#43b4ed]"
+             
+              
             >
               Submit
             </Button>
